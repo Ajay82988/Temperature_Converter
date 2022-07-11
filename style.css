@@ -1,0 +1,54 @@
+
+body{
+background-color: lightgoldenrodyellow;
+padding-left: 50px;
+}
+
+div .container{
+  -moz-box-align: center;
+}
+.container{
+  width:50%;
+  height:50vh;
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-style: dashed;
+  border-radius: 10px;
+  position: center;
+  margin: 20px auto 0;
+}
+
+h1{
+  font-family: sans-serif;
+  color: #0df921;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+h2{
+  font-family: sans-serif;
+  color: cyan;
+}
+
+input{
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 2em;
+  color: #f4a55a;
+  font-style: cursive,sans-serif;;
+  width: 200px;
+  
+}
+
+button{
+  padding: 10px;
+  font-size: 1.2em;
+  color: white;
+  background-color: orangered;
+
+}
+
